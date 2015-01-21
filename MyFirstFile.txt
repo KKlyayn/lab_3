@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello
+=======
+H
+E
+L
+L
+O
+>>>>>>> kfsd;f
